@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marlowe-index"
+version = "2.0.3"
+description = "Cross-lingual clause search index"
+requires-python = ">=3.11"
